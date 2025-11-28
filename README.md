@@ -1,5 +1,7 @@
 ### A flexible class of latent variable models for the analysis of antibody response data  
-**Emanuele Giorgi and Jonas Wallin**  
+by **Emanuele Giorgi and Jonas Wallin**  
+
+
 This repository contains simulation code, model-fitting scripts, and example outputs accompanying the paper.
 
 ---
