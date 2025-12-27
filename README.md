@@ -128,7 +128,7 @@ dir.create("results", showWarnings = FALSE)
 
 | Function | Description |
 |----------|-------------|
-| `dnorm_mixture()` | Conditional normal mixture density Y\|T |
+| `dnorm_latent()` | Conditional normal density Y\|T |
 | `log_sum_exp()` | Numerically stable log-sum-exp |
 | `make_bracket_labels()` | Format age group labels |
 | `simulate_serology_data()` | Generate synthetic datasets |
