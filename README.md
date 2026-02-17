@@ -164,4 +164,4 @@ For questions or issues:
 
 **Repository**: https://github.com/giorgistat/latentv-model-paper
 
-**Last updated**: 27 December 2024
+**Last updated**: 17 December 2026
