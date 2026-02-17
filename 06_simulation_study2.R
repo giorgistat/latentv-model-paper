@@ -1,7 +1,3 @@
-################################################################################
-# Vaccination Contamination Simulation Study - Single Iteration
-# ADAPTED L2 AND LOGLIK FUNCTIONS WITH T-GRID INTEGRATION
-################################################################################
 
 rm(list=ls())
 
