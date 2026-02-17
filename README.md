@@ -9,15 +9,15 @@ by Emanuele Giorgi and Jonas Wallin
 ## Repository Structure
 
 ```
-├── 00_helper_functions.R        # Shared utility functions
+├── 00_helper_functions.R       # Shared utility functions
 ├── 01_fit_ama_by_age_group.R   # Age-stratified AMA1 analysis (Section 6.1)
 ├── 02_fit_msp_by_age_group.R   # Age-stratified MSP1 analysis (Section 6.2)
-├── 03_joint_fit_ama.R           # Joint AMA1 model across all ages
-├── 04_joint_fit_msp.R           # Joint MSP1 model across all ages
-├── 05_simulation_study1.R           # Simulation study on the performance of the L2 estimator (Section 5.1)
-├── 06_simulation_study2.R           # Simulation study on the impact of model misspecification (Section 5.6)
-├── generate_simulated_data.R    # Generate synthetic datasets
-└── README.md                    # This file
+├── 03_joint_fit_ama.R          # Joint AMA1 model across all ages
+├── 04_joint_fit_msp.R          # Joint MSP1 model across all ages
+├── 05_simulation_study1.R      # Simulation study on the performance of the L2 estimator (Section 5.1)
+├── 06_simulation_study2.R      # Simulation study on the impact of model misspecification (Section 5.6)
+├── generate_simulated_data.R   # Generate synthetic datasets
+└── README.md                   # This file
 ```
 
 ## Installation
