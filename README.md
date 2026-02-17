@@ -80,7 +80,7 @@ dir.create("results", showWarnings = FALSE)
 
 ## Model Specifications
 
-### AMA1 Model (Section 5.1)
+### AMA1 Model (Section 6.1)
 
 **Age < τ (mechanistic)**:
 - T ~ mixture of Dirac(0) and Beta(α₂, 1)
@@ -96,7 +96,7 @@ dir.create("results", showWarnings = FALSE)
 - μ(T) = (1-T)μ₀ + T·μ₁
 - σ²(T) = (1-T)σ₀² + T·σ₁²
 
-### MSP1 Model (Section 5.2)
+### MSP1 Model (Section 6.2)
 
 **Latent distribution**:
 - T | age ~ Beta(α(age), β(age))
